@@ -1,0 +1,1 @@
+This is just a sample project for me to learn the capability of git. Nothing important really.
